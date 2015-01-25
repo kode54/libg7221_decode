@@ -1,0 +1,3 @@
+[submodule "libsiren"]
+	path = libsiren
+	url = git@github.com:kode54/libsiren.git
